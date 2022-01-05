@@ -1,0 +1,8 @@
+project Symulacja_Przed_Mod is
+
+   for Source_Dirs use ("src");
+   for Object_Dir use "obj";
+   for Main use ("simulation.adb");
+
+end Symulacja_Przed_Mod;
+
