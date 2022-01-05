@@ -1,0 +1,25 @@
+[GENERATED OBJECT FILE]
+b__simulation.o
+[PROJECT FILES]
+D:\jpr\ada\firstprojectada.gpr
+20211215112020 a06c7acce5b062f45b9a1b2607c23d10
+[BOUND OBJECT FILES]
+D:\jpr\ada\obj\bufor.o
+D:\jpr\ada\obj\konsument.o
+D:\jpr\ada\obj\producent.o
+D:\jpr\ada\obj\simulation.o
+[GENERATED SOURCE FILES]
+b__simulation.ads
+b__simulation.adb
+b__simulation.ali
+[RESULTING OPTIONS]
+-LD:\jpr\ada\obj\
+-LD:\jpr\ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
